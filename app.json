@@ -1,0 +1,5 @@
+#app.json
+
+{
+   "stack": "heroku-24"
+}
