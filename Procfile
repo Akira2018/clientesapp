@@ -1,4 +1,7 @@
 #Procfile
 
-web: gunicorn clientes.wsgi --log-file -
+web: python clientes.py
+
+
+
 
